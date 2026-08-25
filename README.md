@@ -1,18 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:00D4FF&height=210&section=header&text=Jean%20Carlos%20Santos&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o&descAlignY=58&descSize=18" alt="Banner de Jean Carlos Santos" />
+<img width="100%" src="./assets/banner.svg" alt="Banner de Jean Carlos Santos" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Java+%7C+Web+%7C+Estruturas+de+Dados;Transformando+ideias+em+c%C3%B3digo" alt="Apresentação animada" />
+<br>
 
-<p>
-  <a href="https://github.com/jeanxn0">
-    <img src="https://img.shields.io/badge/GitHub-jeanxn0-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/jean-carlos-50076835a">
-    <img src="https://img.shields.io/badge/LinkedIn-Jean%20Carlos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=jeanxn0&label=VISITAS&color=1f6feb&style=for-the-badge" alt="Contador de visitas" />
-</p>
+<img width="180" src="https://raw.githubusercontent.com/jeanxn0/meu-cv/main/perfil.png" alt="Foto de Jean Carlos Santos" />
+
+### Olá! Eu sou Jean Carlos 👋
+
+**Estudante de Sistemas de Informação • Desenvolvedor em formação**
+
+[![GitHub](https://img.shields.io/badge/GitHub-jeanxn0-181717?style=flat-square&logo=github)](https://github.com/jeanxn0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Carlos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-carlos-50076835a)
 
 </div>
 
@@ -22,49 +21,57 @@ Sou **Jean Carlos Santos**, estudante do **4º período de Sistemas de Informaç
 
 - 📍 Machado, Minas Gerais, Brasil
 - 💻 Interesse em desenvolvimento de software, web e banco de dados
-- ☕ Desenvolvendo projetos com Java, algoritmos e estruturas de dados
-- 🌐 Criando interfaces com HTML, CSS e JavaScript
-- 🎯 Buscando oportunidade de estágio ou posição inicial na área de TI
+- ☕ Projetos com Java, algoritmos e estruturas de dados
+- 🌐 Interfaces com HTML, CSS e JavaScript
+- 🎯 Em busca de estágio ou oportunidade inicial em TI
 - 📚 Português nativo e inglês básico
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,python,cs,php,git,github,vscode&theme=dark&perline=10" alt="Tecnologias de Jean Carlos" />
+<img width="100%" src="./assets/stack.svg" alt="Tecnologias e ferramentas" />
 
 </div>
 
 ## 🚀 Projetos em destaque
 
-<div align="center">
-
+<table>
+<tr>
+<td width="50%">
 <a href="https://github.com/jeanxn0/hash-encadeado">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jeanxn0&repo=hash-encadeado&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Hash Encadeado" />
+<img width="100%" src="https://opengraph.githubassets.com/1/jeanxn0/hash-encadeado" alt="Projeto Hash Encadeado">
 </a>
+<p><b>Hash Encadeado</b><br>Estrutura de dados desenvolvida em Java.</p>
+</td>
+<td width="50%">
 <a href="https://github.com/jeanxn0/sorts">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jeanxn0&repo=sorts&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Algoritmos de ordenação" />
+<img width="100%" src="https://opengraph.githubassets.com/1/jeanxn0/sorts" alt="Projeto Sorts">
 </a>
-
+<p><b>Algoritmos de Ordenação</b><br>Estudos e implementações de ordenação em Java.</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
 <a href="https://github.com/jeanxn0/meu-cv">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jeanxn0&repo=meu-cv&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Meu CV" />
+<img width="100%" src="https://opengraph.githubassets.com/1/jeanxn0/meu-cv" alt="Projeto Meu CV">
 </a>
+<p><b>Meu CV</b><br>Currículo web responsivo com HTML, CSS e JavaScript.</p>
+</td>
+<td width="50%">
 <a href="https://github.com/jeanxn0/atividadeMatheus">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jeanxn0&repo=atividadeMatheus&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Atividade em C Sharp" />
+<img width="100%" src="https://opengraph.githubassets.com/1/jeanxn0/atividadeMatheus" alt="Projeto Atividade Matheus">
 </a>
+<p><b>Atividade em C#</b><br>Projeto acadêmico desenvolvido em C#.</p>
+</td>
+</tr>
+</table>
 
-</div>
+## 📈 Minha evolução
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jeanxn0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanxn0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&locale=pt-br" alt="Linguagens mais usadas" />
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=jeanxn0&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de contribuições" />
-
-</div>
+- Confira meus [repositórios públicos](https://github.com/jeanxn0?tab=repositories)
+- Veja meu [histórico de contribuições](https://github.com/jeanxn0)
+- Acompanhe os projetos que estou desenvolvendo e aprimorando
 
 ## 🎯 Missão atual
 
@@ -72,8 +79,6 @@ Sou **Jean Carlos Santos**, estudante do **4º período de Sistemas de Informaç
 
 <div align="center">
 
-**Obrigado pela visita! Explore meus repositórios e acompanhe minha evolução.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:1F6FEB,100:0D1117&height=120&section=footer" alt="Rodapé" />
+<img width="100%" src="./assets/footer.svg" alt="Obrigado pela visita" />
 
 </div>
