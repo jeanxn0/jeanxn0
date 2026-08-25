@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <rect width="1200" height="220" rx="24" fill="#0d1117" stroke="#30363d"/>
+  <text x="55" y="58" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="26" font-weight="700">Tecnologias e ferramentas</text>
+  <g font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle">
+    <g transform="translate(55 92)"><rect width="126" height="56" rx="14" fill="#182b3a" stroke="#f89820"/><text x="63" y="35" fill="#f6f8fa">Java</text></g>
+    <g transform="translate(195 92)"><rect width="126" height="56" rx="14" fill="#182b3a" stroke="#e34f26"/><text x="63" y="35" fill="#f6f8fa">HTML</text></g>
+    <g transform="translate(335 92)"><rect width="126" height="56" rx="14" fill="#182b3a" stroke="#1572b6"/><text x="63" y="35" fill="#f6f8fa">CSS</text></g>
+    <g transform="translate(475 92)"><rect width="126" height="56" rx="14" fill="#182b3a" stroke="#f7df1e"/><text x="63" y="35" fill="#f6f8fa">JavaScript</text></g>
+    <g transform="translate(615 92)"><rect width="126" height="56" rx="14" fill="#182b3a" stroke="#3776ab"/><text x="63" y="35" fill="#f6f8fa">Python</text></g>
+    <g transform="translate(755 92)"><rect width="126" height="56" rx="14" fill="#182b3a" stroke="#9b4f96"/><text x="63" y="35" fill="#f6f8fa">C#</text></g>
+    <g transform="translate(895 92)"><rect width="126" height="56" rx="14" fill="#182b3a" stroke="#777bb4"/><text x="63" y="35" fill="#f6f8fa">PHP</text></g>
+    <g transform="translate(1035 92)"><rect width="110" height="56" rx="14" fill="#182b3a" stroke="#f05032"/><text x="55" y="35" fill="#f6f8fa">Git</text></g>
+  </g>
+  <text x="55" y="188" fill="#8b949e" font-family="monospace" font-size="16">GitHub • VS Code • Algoritmos • Estruturas de Dados • Desenvolvimento Web</text>
+</svg>
