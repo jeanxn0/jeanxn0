@@ -6,8 +6,7 @@
 
 **Estudante de Sistemas de Informação • Desenvolvedor em formação**
 
-[![GitHub](https://img.shields.io/badge/GitHub-jeanxn0-181717?style=flat-square&logo=github)](https://github.com/jeanxn0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean%20Carlos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-carlos-50076835a)
+[GitHub](https://github.com/jeanxn0) • [LinkedIn](https://www.linkedin.com/in/jean-carlos-50076835a)
 
 </div>
 
@@ -36,24 +35,24 @@ Sou **Jean Carlos Santos**, estudante do **4º período de Sistemas de Informaç
 <tr>
 <td width="50%">
 <a href="https://github.com/jeanxn0/hash-encadeado">
-<img width="100%" src="./assets/project-hash.svg" alt="Projeto Hash Encadeado">
+<img width="100%" src="./assets/project-hash.svg" alt="Tabela Hash com Encadeamento Separado">
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/jeanxn0/sorts">
-<img width="100%" src="./assets/project-sorts.svg" alt="Projeto Algoritmos de Ordenação">
+<img width="100%" src="./assets/project-sorts.svg" alt="Algoritmos de Ordenação em Java">
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <a href="https://github.com/jeanxn0/meu-cv">
-<img width="100%" src="./assets/project-cv.svg" alt="Projeto Meu CV">
+<img width="100%" src="./assets/project-cv.svg" alt="Meu CV">
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/jeanxn0/atividadeMatheus">
-<img width="100%" src="./assets/project-csharp.svg" alt="Projeto Atividade em C Sharp">
+<img width="100%" src="./assets/project-csharp.svg" alt="Exercícios de C Sharp">
 </a>
 </td>
 </tr>
