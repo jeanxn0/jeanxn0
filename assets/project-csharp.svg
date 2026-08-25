@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250">
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#111c2d"/></linearGradient></defs>
+  <rect x="2" y="2" width="576" height="246" rx="20" fill="url(#bg)" stroke="#30363d" stroke-width="3"/>
+  <rect x="2" y="2" width="9" height="246" rx="5" fill="#9b4f96"/>
+  <circle cx="74" cy="74" r="38" fill="#9b4f96" fill-opacity=".16" stroke="#9b4f96"/>
+  <text x="74" y="86" fill="#9b4f96" font-family="Arial, sans-serif" font-size="34" font-weight="700" text-anchor="middle">C#</text>
+  <text x="132" y="66" fill="#8b949e" font-family="monospace" font-size="16">C# • PROJETO ACADÊMICO</text>
+  <text x="132" y="104" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="27" font-weight="700">Atividade em C#</text>
+  <text x="48" y="166" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="18">Projeto acadêmico desenvolvido em C Sharp.</text>
+  <text x="48" y="214" fill="#9b4f96" font-family="Arial, sans-serif" font-size="17" font-weight="700">Ver repositório  →</text>
+</svg>
